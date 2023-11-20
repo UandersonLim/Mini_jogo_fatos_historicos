@@ -1,6 +1,6 @@
 #Projeto_Mini_Gamer_Fatos_Históricos
 
-#Projeto Desenvolvido com intuito de aprimorar e treinar habilidades com JavaScript no lado do beckend.
+#Projeto Desenvolvido com intuito de aprimorar e treinar habilidades com JavaScript no lado do beckend, aprimorando funções nativas do JavaScript, e refatoração do código para melhor manutenção.
 
 - Para clonar o repositório na sua máquina utilize um versionador de código, eu utilizo Git.
 - Crie uma pasta na sua área de trabalho.
